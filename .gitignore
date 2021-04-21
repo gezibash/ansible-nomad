@@ -8,3 +8,4 @@ files/*.zip
 files/nomad
 nomad_*_SHA256SUMS
 *.swp
+files/*.pem
